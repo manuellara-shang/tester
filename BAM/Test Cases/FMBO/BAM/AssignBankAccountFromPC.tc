@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AssignBankAccountFromPC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05d5a5a0-5194-478c-9489-27bb569e5ded</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>523fee19-0e85-43c0-9ea5-ada7d2f89f0a</id>
+      <masked>false</masked>
+      <name>AccountNickname</name>
+   </variable>
+</TestCaseEntity>

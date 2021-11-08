@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestForTopUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0071ddb7-fb30-4d60-ab2a-aacdb5f1d645</testCaseGuid>
+   <variable>
+      <defaultValue>'IBCAI TY# 67890'</defaultValue>
+      <description></description>
+      <id>0b049acf-3d65-49d3-aaea-222b295c5167</id>
+      <masked>false</masked>
+      <name>AccountNickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Top Up'</defaultValue>
+      <description></description>
+      <id>14c5cd10-70d0-4b1d-9d04-990bd867ca3a</id>
+      <masked>false</masked>
+      <name>FTSubModule</name>
+   </variable>
+</TestCaseEntity>

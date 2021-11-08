@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ActivateBankAccountInFI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85337abe-247e-4158-b1c0-c1fe9ef03321</testCaseGuid>
+   <variable>
+      <defaultValue>'CABCI AAA 22222\t'</defaultValue>
+      <description></description>
+      <id>8db35e7c-0ba6-4ebe-99ed-1470f074760e</id>
+      <masked>false</masked>
+      <name>AccountNickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'SmartPay'</defaultValue>
+      <description></description>
+      <id>006cb429-94f5-48a7-9092-8e43ad16cbb6</id>
+      <masked>false</masked>
+      <name>Method</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>0d654d7e-2061-4b58-824c-9a0d7f61ea65</id>
+      <masked>false</masked>
+      <name>AccountMinRange</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000000'</defaultValue>
+      <description></description>
+      <id>6b9f3504-487b-43e8-9c38-94357310ccad</id>
+      <masked>false</masked>
+      <name>AccountMaxRange</name>
+   </variable>
+</TestCaseEntity>

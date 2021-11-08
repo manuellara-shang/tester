@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ActivateBankAccountInFO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f3389d7-cd35-449c-b152-5afbcfc955bf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af6ba370-94a6-41fe-813b-c82e5a6d5599</id>
+      <masked>false</masked>
+      <name>AccountNickname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84144d66-fdb5-4390-901e-ad191a1b6889</id>
+      <masked>false</masked>
+      <name>AccountMinRange</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2bc3385-05b3-4bff-b54f-cd7dcd11c833</id>
+      <masked>false</masked>
+      <name>AccountMaxRange</name>
+   </variable>
+</TestCaseEntity>

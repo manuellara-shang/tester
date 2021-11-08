@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AssignBankAccountFromFT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>167081df-c2ea-4a0d-93ac-49b4fbefc318</testCaseGuid>
+   <variable>
+      <defaultValue>'TKKBI GDR 11120'</defaultValue>
+      <description></description>
+      <id>e8e30941-ef95-4a36-b627-b116c39513d7</id>
+      <masked>false</masked>
+      <name>AccountNickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'M88'</defaultValue>
+      <description></description>
+      <id>734998b8-cba5-4037-9023-a80f8a2ce63e</id>
+      <masked>false</masked>
+      <name>Operator</name>
+   </variable>
+   <variable>
+      <defaultValue>'10,000.00'</defaultValue>
+      <description></description>
+      <id>8e755e8c-2645-43a8-8fd0-6e5fad657f42</id>
+      <masked>false</masked>
+      <name>CurrentBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>'TS'</defaultValue>
+      <description></description>
+      <id>188beaa4-2f56-4ef6-bd68-e2e289735a40</id>
+      <masked>false</masked>
+      <name>AssignFromFT</name>
+   </variable>
+</TestCaseEntity>
